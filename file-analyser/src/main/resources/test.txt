@@ -1,0 +1,15 @@
+Hello world! This is a simple text file.
+It contains multiple lines, with different lengths.
+Let's see how many unique words are in this file.
+The word "file" is repeated here.
+There are numbers in this line: 12345.
+Some words are palindromic: level, radar, civic.
+Roses are red, violets are blue,
+Sugar is sweet, and so are you.
+Programming in Java is fun,
+Especially when the work is done.
+This line ends with a punctuation mark!
+And this line, well, it ends with a comma,
+Java Streams are powerful and versatile.
+Have you ever wondered why the sky is blue?
+In the world of programming, anything is possible.

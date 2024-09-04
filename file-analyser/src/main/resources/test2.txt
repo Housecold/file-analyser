@@ -1,0 +1,15 @@
+Another text file is here for comparison.
+This file also has multiple lines.
+There are some unique words here as well.
+The word "file" appears in both files.
+Look, some numbers: 67890.
+Palindromic words are fun: level, racecar, madam.
+Roses are red, violets are blue,
+Sugar is sweet, and so are you.
+Coding in Python is enjoyable,
+Especially when the project is complete.
+This line has an exclamation point!
+And this line, guess what, it ends with a comma,
+Python's list comprehensions are powerful and efficient.
+Have you ever wondered why the grass is green?
+In the universe of coding, anything is achievable.
